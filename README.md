@@ -9,6 +9,13 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 Supports multiple GSMA MWC trade fair websites with a consistent HTML structure.
 
 
+## 🔎 Testing Exhibitor List URLs for FREE
+
+- Since I have multiple exhibitor list scraper actors for different types of trade event websites, it might be hard to find the correct actor for your exhibitor list URL.
+
+- Use [**Exhibitor List Scrapers Router & URL Tester**](https://apify.com/skython/exhibitor-list-scrapers-router) actor to test your exhibitor list URLs **for FREE** and see which scraper can process them.
+
+
 ## 👇 Check My Other Exhibitor List Scrapers
 
 - [Koelnmesse Exhibitor List Scraper](https://apify.com/skython/koelnmesse-exhibitor-list-scraper)
@@ -29,12 +36,11 @@ Supports multiple GSMA MWC trade fair websites with a consistent HTML structure.
 
 - [Nuernberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
 
+- [Messe Berlin Exhibitor List Scraper](https://apify.com/skython/messe-berlin-exhibitor-list-scraper)
 
-## 🔎 Testing Exhibitor List URLs for FREE
+- [AFAG Messe Exhibitor List Scraper](https://apify.com/skython/afag-messe-exhibitor-list-scraper)
 
-- Since I have multiple exhibitor list scraper actors for different types of trade event websites, it might be hard to find the correct actor for your exhibitor list URL.
-
-- Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor to test your exhibitor list URLs **for FREE** and see which scraper can process them.
+- [Messe Stuttgart Exhibitor List Scraper](https://apify.com/skython/messe-stuttgart-exhibitor-list-scraper)
 
 
 ## 🎯 Supported Website Structure
@@ -43,21 +49,21 @@ Supports multiple GSMA MWC trade fair websites with a consistent HTML structure.
 
 - Take a look at some of the event websites from the below list. Your event website URL might be in that list.
 
-- If you are not sure about if this actor is capable of scraping your event URL, test it with [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor.
+- If you are not sure about if this actor is capable of scraping your event URL, test it with [**Exhibitor List Scrapers Router & URL Tester**](https://apify.com/skython/exhibitor-list-scrapers-router) actor.
 
 
 ## 🌐 Supported GSMA MWC Events (Exhibitor Lists)
 
 **Note:** *The following partial list includes GSMA MWC exhibitor directory URLs that have been tested so far. Other GSMA MWC or different events with the same website structure may also be supported.*
 
-- [MWC Barcelona 2025 Exhibitor List](https://www.mwcbarcelona.com/exhibitors?)
+- [MWC Barcelona 2025 Exhibitor List - mwcbarcelona.com](https://mwcbarcelona.com/exhibitors?)
 
-- [MWC Doha 2025 Exhibitor List](https://www.mwcdoha.com/exhibitors?)
+- [MWC Doha 2025 Exhibitor List - mwcdoha.com](https://mwcdoha.com/exhibitors?)
 
-- [MWC Kigali 2025 Exhibitor List](https://www.mwckigali.com/exhibitors?)
+- [MWC Kigali 2025 Exhibitor List - mwckigali.com](https://mwckigali.com/exhibitors?)
 
-- [MWC Las Vegas 2025 Exhibitor List](https://www.mwclasvegas.com/exhibitors?)
+- [MWC Las Vegas 2025 Exhibitor List - mwclasvegas.com](https://mwclasvegas.com/exhibitors?)
 
-- [MWC Shanghai 2025 Exhibitor List](https://www.mwcshanghai.com/exhibitors?)
+- [MWC Shanghai 2025 Exhibitor List - mwcshanghai.com](https://mwcshanghai.com/exhibitors?)
 
-- [4FYN Barcelona 2025 Exhibitor List](https://www.4yfn.com/exhibitors?)
+- [4FYN Barcelona 2025 Exhibitor List - 4yfn.com](https://4yfn.com/exhibitors?)
