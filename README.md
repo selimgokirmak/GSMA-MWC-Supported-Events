@@ -56,14 +56,14 @@ Supports multiple GSMA MWC trade fair websites with a consistent HTML structure.
 
 **Note:** *The following partial list includes GSMA MWC exhibitor directory URLs that have been tested so far. Other GSMA MWC or different events with the same website structure may also be supported.*
 
-- [MWC Barcelona 2025 Exhibitor List - mwcbarcelona.com](https://mwcbarcelona.com/exhibitors?)
+- [MWC Barcelona 2025 Exhibitor List – mwcbarcelona.com](https://mwcbarcelona.com/exhibitors?)
 
-- [MWC Doha 2025 Exhibitor List - mwcdoha.com](https://mwcdoha.com/exhibitors?)
+- [MWC Doha 2025 Exhibitor List – mwcdoha.com](https://mwcdoha.com/exhibitors?)
 
-- [MWC Kigali 2025 Exhibitor List - mwckigali.com](https://mwckigali.com/exhibitors?)
+- [MWC Kigali 2025 Exhibitor List – mwckigali.com](https://mwckigali.com/exhibitors?)
 
-- [MWC Las Vegas 2025 Exhibitor List - mwclasvegas.com](https://mwclasvegas.com/exhibitors?)
+- [MWC Las Vegas 2025 Exhibitor List – mwclasvegas.com](https://mwclasvegas.com/exhibitors?)
 
-- [MWC Shanghai 2025 Exhibitor List - mwcshanghai.com](https://mwcshanghai.com/exhibitors?)
+- [MWC Shanghai 2025 Exhibitor List – mwcshanghai.com](https://mwcshanghai.com/exhibitors?)
 
-- [4FYN Barcelona 2025 Exhibitor List - 4yfn.com](https://4yfn.com/exhibitors?)
+- [4FYN Barcelona 2025 Exhibitor List – 4yfn.com](https://4yfn.com/exhibitors?)
